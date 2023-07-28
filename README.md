@@ -1,4 +1,3 @@
-# membuat / membantu website untuk sekolah lukman alhakim
+# Ideas
 
-ideas:
-
+beri ide untuk membuat website lukman alhakim
