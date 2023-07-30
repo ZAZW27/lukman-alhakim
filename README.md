@@ -1,12 +1,12 @@
 # Kelompok
 
-### Zharif Aziz Z W | ZAZW27
+###### Zharif Aziz Z W | ZAZW27
 
-### Hadriawan Pratama | Hadriawan (bosanin namanya)
+###### Hadriawan Pratama | Hadriawan (bosanin namanya)
 
-### Radyt Iksan Pratama | uprcsnull
+###### Radyt Iksan Pratama | uprcsnull
 
-### Hanif Ahmad | nifnip22
+###### Hanif Ahmad | nifnip22
 
 ## Ideas
 
